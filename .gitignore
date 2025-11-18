@@ -1,5 +1,6 @@
 # folders
 .ipynb_checkpoints/
+private/
 
 # files
 *.pdf
